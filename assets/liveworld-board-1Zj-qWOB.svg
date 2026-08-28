@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="boardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06235f"/>
+      <stop offset="1" stop-color="#041a4e"/>
+    </linearGradient>
+    <linearGradient id="post1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12ccf3"/>
+      <stop offset="1" stop-color="#0a3dbd"/>
+    </linearGradient>
+    <linearGradient id="post2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c8bdf"/>
+      <stop offset="1" stop-color="#05237d"/>
+    </linearGradient>
+    <linearGradient id="post3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5c63a"/>
+      <stop offset="1" stop-color="#e8a313"/>
+    </linearGradient>
+    <linearGradient id="post4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e82e1a"/>
+      <stop offset="1" stop-color="#9a2b12"/>
+    </linearGradient>
+    <linearGradient id="post5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9fc8ff"/>
+      <stop offset="1" stop-color="#1c8bdf"/>
+    </linearGradient>
+  </defs>
+
+  <!-- board -->
+  <rect x="24" y="40" width="1552" height="920" rx="28" fill="url(#boardbg)"/>
+  <rect x="25" y="41" width="1550" height="918" rx="28" fill="none" stroke="rgba(255,255,255,.16)" stroke-width="2"/>
+
+  <!-- header -->
+  <text x="80" y="118" font-family="SFMono-Regular, Consolas, ui-monospace, monospace" font-size="24" letter-spacing="6" fill="#12ccf3" font-weight="800">OVERSEAS LAUNCH DEMO · FICTIONAL BRAND</text>
+  <text x="80" y="196" font-family="Inter, -apple-system, sans-serif" font-size="84" font-weight="840" fill="#ffffff">STEP INTO THE STORY</text>
+  <text x="80" y="242" font-family="SFMono-Regular, Consolas, ui-monospace, monospace" font-size="22" letter-spacing="3" fill="rgba(255,255,255,.55)" font-weight="600">LIVEWORLD · INSTAGRAM × TIKTOK · 4-WEEK COLD START · UGC REMIX LOOP</text>
+
+  <!-- 5 IG posts -->
+  <g font-family="SFMono-Regular, Consolas, ui-monospace, monospace">
+    <g transform="translate(80,300)">
+      <rect width="200" height="520" rx="16" fill="#ffffff"/>
+      <circle cx="30" cy="30" r="13" fill="#9fc8ff"/>
+      <text x="52" y="36" font-size="20" font-weight="800" fill="#0a2266">liveworld</text>
+      <text x="190" y="36" font-size="20" font-weight="800" fill="#5b6b9e">···</text>
+      <rect width="200" height="200" fill="url(#post1)"/>
+      <text x="100" y="140" text-anchor="middle" font-size="110" font-weight="800" fill="#ffffff">1</text>
+      <text x="100" y="180" text-anchor="middle" font-size="18" font-weight="800" fill="#ffffff" opacity=".9">TEASER</text>
+      <text x="16" y="242" font-size="17" font-weight="800" fill="#0a2266">You're not watching this.</text>
+      <text x="16" y="266" font-size="17" font-weight="800" fill="#0a2266">You're in it.</text>
+      <text x="16" y="302" font-size="15" fill="#5b6b9e">#LIVEWORLD #StepIn</text>
+      <text x="16" y="336" font-size="20" fill="#e82e1a">♥</text>
+      <text x="40" y="336" font-size="15" font-weight="800" fill="#5b6b9e">12.4k</text>
+      <text x="110" y="336" font-size="15" font-weight="800" fill="#5b6b9e">comments 486</text>
+    </g>
+
+    <g transform="translate(320,300)">
+      <rect width="200" height="520" rx="16" fill="#ffffff"/>
+      <circle cx="30" cy="30" r="13" fill="#9fc8ff"/>
+      <text x="52" y="36" font-size="20" font-weight="800" fill="#0a2266">liveworld</text>
+      <text x="190" y="36" font-size="20" font-weight="800" fill="#5b6b9e">···</text>
+      <rect width="200" height="200" fill="url(#post2)"/>
+      <text x="100" y="140" text-anchor="middle" font-size="110" font-weight="800" fill="#ffffff">2</text>
+      <text x="100" y="180" text-anchor="middle" font-size="18" font-weight="800" fill="#ffffff" opacity=".9">INTERACTIVE</text>
+      <text x="16" y="242" font-size="17" font-weight="800" fill="#0a2266">Choose your role.</text>
+      <text x="16" y="266" font-size="17" font-weight="800" fill="#0a2266">Tap the sticker.</text>
+      <text x="16" y="302" font-size="15" fill="#5b6b9e">#ChooseYourPath</text>
+      <text x="16" y="336" font-size="20" fill="#e82e1a">♥</text>
+      <text x="40" y="336" font-size="15" font-weight="800" fill="#5b6b9e">9.8k</text>
+      <text x="110" y="336" font-size="15" font-weight="800" fill="#5b6b9e">polls 2.1k</text>
+    </g>
+
+    <g transform="translate(560,300)">
+      <rect width="200" height="520" rx="16" fill="#ffffff"/>
+      <circle cx="30" cy="30" r="13" fill="#9fc8ff"/>
+      <text x="52" y="36" font-size="20" font-weight="800" fill="#0a2266">liveworld</text>
+      <text x="190" y="36" font-size="20" font-weight="800" fill="#5b6b9e">···</text>
+      <rect width="200" height="200" fill="url(#post3)"/>
+      <text x="100" y="140" text-anchor="middle" font-size="110" font-weight="800" fill="#0a2266">3</text>
+      <text x="100" y="180" text-anchor="middle" font-size="18" font-weight="800" fill="#0a2266" opacity=".9">BRANCHING</text>
+      <text x="16" y="242" font-size="17" font-weight="800" fill="#0a2266">One scene.</text>
+      <text x="16" y="266" font-size="17" font-weight="800" fill="#0a2266">Infinite endings.</text>
+      <text x="16" y="302" font-size="15" fill="#5b6b9e">#YourEnding</text>
+      <text x="16" y="336" font-size="20" fill="#e82e1a">♥</text>
+      <text x="40" y="336" font-size="15" font-weight="800" fill="#5b6b9e">14.1k</text>
+      <text x="110" y="336" font-size="15" font-weight="800" fill="#5b6b9e">shares 3.4k</text>
+    </g>
+
+    <g transform="translate(800,300)">
+      <rect width="200" height="520" rx="16" fill="#ffffff"/>
+      <circle cx="30" cy="30" r="13" fill="#9fc8ff"/>
+      <text x="52" y="36" font-size="20" font-weight="800" fill="#0a2266">liveworld</text>
+      <text x="190" y="36" font-size="20" font-weight="800" fill="#5b6b9e">···</text>
+      <rect width="200" height="200" fill="url(#post4)"/>
+      <text x="100" y="140" text-anchor="middle" font-size="110" font-weight="800" fill="#ffffff">4</text>
+      <text x="100" y="180" text-anchor="middle" font-size="18" font-weight="800" fill="#ffffff" opacity=".9">UGC REMIX</text>
+      <text x="16" y="242" font-size="17" font-weight="800" fill="#0a2266">Your ending,</text>
+      <text x="16" y="266" font-size="17" font-weight="800" fill="#0a2266">remixed.</text>
+      <text x="16" y="302" font-size="15" fill="#5b6b9e">#RemixTheStory</text>
+      <text x="16" y="336" font-size="20" fill="#e82e1a">♥</text>
+      <text x="40" y="336" font-size="15" font-weight="800" fill="#5b6b9e">11.2k</text>
+      <text x="110" y="336" font-size="15" font-weight="800" fill="#5b6b9e">remixes 1.9k</text>
+    </g>
+
+    <g transform="translate(1040,300)">
+      <rect width="200" height="520" rx="16" fill="#ffffff"/>
+      <circle cx="30" cy="30" r="13" fill="#9fc8ff"/>
+      <text x="52" y="36" font-size="20" font-weight="800" fill="#0a2266">liveworld</text>
+      <text x="190" y="36" font-size="20" font-weight="800" fill="#5b6b9e">···</text>
+      <rect width="200" height="200" fill="url(#post5)"/>
+      <text x="100" y="140" text-anchor="middle" font-size="110" font-weight="800" fill="#0a2266">5</text>
+      <text x="100" y="180" text-anchor="middle" font-size="18" font-weight="800" fill="#0a2266" opacity=".9">CHALLENGE</text>
+      <text x="16" y="242" font-size="17" font-weight="800" fill="#0a2266">Step in.</text>
+      <text x="16" y="266" font-size="17" font-weight="800" fill="#0a2266">#MyWorldChallenge</text>
+      <text x="16" y="302" font-size="15" fill="#5b6b9e">#MyWorldChallenge</text>
+      <text x="16" y="336" font-size="20" fill="#e82e1a">♥</text>
+      <text x="40" y="336" font-size="15" font-weight="800" fill="#5b6b9e">8.6k</text>
+      <text x="110" y="336" font-size="15" font-weight="800" fill="#5b6b9e">entries 640</text>
+    </g>
+  </g>
+
+  <!-- TikTok storyboard -->
+  <g font-family="SFMono-Regular, Consolas, ui-monospace, monospace">
+    <rect x="1280" y="300" width="296" height="330" rx="16" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.14)"/>
+    <text x="1300" y="336" font-size="16" letter-spacing="2" font-weight="800" fill="#f5c63a">TIKTOK · 15S STORYBOARD</text>
+    <g transform="translate(1300,356)">
+      <rect width="256" height="76" rx="10" fill="rgba(18,204,243,.12)" stroke="rgba(18,204,243,.4)"/>
+      <text x="14" y="30" font-size="15" font-weight="800" fill="#12ccf3">0–5S</text>
+      <text x="14" y="56" font-size="14" font-weight="600" fill="#ffffff">Hook: "Tap to enter the scene."</text>
+    </g>
+    <g transform="translate(1300,444)">
+      <rect width="256" height="76" rx="10" fill="rgba(28,139,223,.14)" stroke="rgba(28,139,223,.4)"/>
+      <text x="14" y="30" font-size="15" font-weight="800" fill="#6fb4f5">5–10S</text>
+      <text x="14" y="56" font-size="14" font-weight="600" fill="#ffffff">Branch: your choice splits the story.</text>
+    </g>
+    <g transform="translate(1300,532)">
+      <rect width="256" height="76" rx="10" fill="rgba(245,198,58,.14)" stroke="rgba(245,198,58,.4)"/>
+      <text x="14" y="30" font-size="15" font-weight="800" fill="#f5c63a">10–15S</text>
+      <text x="14" y="56" font-size="14" font-weight="600" fill="#ffffff">CTA: Step in. #MyWorldChallenge</text>
+    </g>
+  </g>
+
+  <!-- Week calendar -->
+  <g font-family="SFMono-Regular, Consolas, ui-monospace, monospace">
+    <rect x="1280" y="650" width="296" height="210" rx="16" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.14)"/>
+    <text x="1300" y="686" font-size="16" letter-spacing="2" font-weight="800" fill="#f5c63a">WEEK 1 → 4 CALENDAR</text>
+    <g transform="translate(1300,706)">
+      <rect width="256" height="30" rx="15" fill="rgba(18,204,243,.18)"/>
+      <text x="16" y="21" font-size="15" font-weight="800" fill="#12ccf3">W1</text>
+      <text x="60" y="21" font-size="14" font-weight="600" fill="#ffffff">TEASE — countdown + first post</text>
+    </g>
+    <g transform="translate(1300,744)">
+      <rect width="256" height="30" rx="15" fill="rgba(28,139,223,.18)"/>
+      <text x="16" y="21" font-size="15" font-weight="800" fill="#6fb4f5">W2</text>
+      <text x="60" y="21" font-size="14" font-weight="600" fill="#ffffff">BRANCH — interactive + TikTok drop</text>
+    </g>
+    <g transform="translate(1300,782)">
+      <rect width="256" height="30" rx="15" fill="rgba(245,198,58,.18)"/>
+      <text x="16" y="21" font-size="15" font-weight="800" fill="#f5c63a">W3</text>
+      <text x="60" y="21" font-size="14" font-weight="600" fill="#ffffff">UGC — remix prompts + reposts</text>
+    </g>
+    <g transform="translate(1300,820)">
+      <rect width="256" height="30" rx="15" fill="rgba(232,46,26,.2)"/>
+      <text x="16" y="21" font-size="15" font-weight="800" fill="#ff7a5c">W4</text>
+      <text x="60" y="21" font-size="14" font-weight="600" fill="#ffffff">REMIX — #MyWorldChallenge final</text>
+    </g>
+  </g>
+</svg>
